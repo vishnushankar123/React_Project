@@ -1,0 +1,46 @@
+/* #Weather{
+    background-color: #39137e;
+    padding: 20px;
+  } */
+   
+  #Weather{
+    /* background-color: blue; */
+    background-image: url('https://cdn.pixabay.com/photo/2022/04/09/19/34/hut-7122148_1280.jpg');
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+   
+  .weather-box{
+    background-color:rgba(241, 245, 240, 0.24);
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+  }
+  .h1{
+    color: white;
+  }
+  /* .weather-box{
+    background-color:rgba(94, 94, 243, 0.521); 
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+  } */
+   
+  .weather-box h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+   
+  .weather-box h4 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+   
+  .weather-box img {
+    width: 50px;
+    height: 50px;
+  }

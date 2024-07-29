@@ -1,0 +1,38 @@
+#BMI{
+    background-color: brown;
+ }
+ 
+.sai {
+    text-align: center;
+    background-color: rgba(70, 28, 28, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+.sai1{
+    text-align: center;
+    background-color: rgba(70, 28, 28, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    height: 300px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+.input{
+    border-radius: 50%;
+}
+.img-container {
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 10px; /* Adjust spacing between images */
+    text-align: center;
+}

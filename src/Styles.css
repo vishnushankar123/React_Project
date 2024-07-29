@@ -1,0 +1,38 @@
+.App {
+    
+    border-radius: 5px;
+    background-color: lightcoral;
+    background-image: url("images/Background\ images1.jpg");
+    padding: 40px;
+    border: 1px solid cadetblue;
+    border-radius: 100px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    margin-top: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .nav-item{
+    padding: 40px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: lightslategray;
+  }
+  button:hover {
+    background-color: lightsteelblue;
+  }
+  

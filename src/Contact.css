@@ -1,0 +1,37 @@
+/* styles.css */
+
+.container-fluid {
+  padding: 20px;
+  margin-top: -20px; /* Adjust margin top as needed */
+}
+
+.row-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Ensure the container takes full viewport height */
+}
+
+.image-container {
+  height: 100vh; /* Set height to fill the viewport height */
+  width: 50%; /* Take up half of the viewport width */
+  background-size: cover;
+  background-position: center;
+}
+
+.contact-container {
+  height: 100vh; /* Set height to fill the viewport height */
+  width: 50%; /* Take up half of the viewport width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+  background-color: rgb(207, 162, 162);
+}
+
+.form-container {
+  max-width: 450px; /* Example: set max width for the form */
+  width: 100%; /* Ensure form fills its container width */
+  /* background-color: rgb(207, 162, 162); */
+}
